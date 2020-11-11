@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/WebstormProjects/oo_assignment2" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/WebstormProjects/phantom-frontend" startUpFlag="FIRST" />
   </component>
 </application>
